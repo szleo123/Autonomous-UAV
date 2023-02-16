@@ -28,24 +28,24 @@ https://user-images.githubusercontent.com/38061240/219244558-4f2ef54f-2ec6-4803-
 
 The following images are important image results by running my algorithm on the Maze map. 
 
-![3D_Path](figures/3D_Path.png)
+![3D_Path](figures/3D_Path.png){width=50%}
 
-![position](figures/position.png)
+![position](figures/position.png){width=50%}
 
-![velocity](figures/velocity.png)
+![velocity](figures/velocity.png){width=50%}
 
-![accelerometer](figures/accelerometer.png)
+![accelerometer](figures/accelerometer.png){width=50%}
 
-![bias](figures/bias.png)
+![bias](figures/bias.png){width=50%}
 
-![trace](figures/trace.png)
+![trace](figures/trace.png){width=50%}
 
 
 ## Compare with quadrotor given true states
 
-![](figures/comp_pos.png)
+![](figures/comp_pos.png){width=50%}
 
-![](figures/comp_vel.png)
+![](figures/comp_vel.png){width=50%}
 
 For two figures above, the left figures used true states of the quadrotor and right figures used the VIO to estimate the states of the quadrotor. Notice that the overall position and velocity are similar no matter whether the true states are given or estimated. The only difference is that the estimated states are more noisy than the true states which is the nature of state estimation by kalman filters. 
 
