@@ -20,3 +20,7 @@ Over and Under:
 
 https://user-images.githubusercontent.com/38061240/219241129-7a4cde59-78bd-43a3-8ffb-5408294612a1.mov
 
+## Image Results
+
+The following images are important image results by running my algorithm on the Maze map. 
+
