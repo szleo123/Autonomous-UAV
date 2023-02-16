@@ -1,0 +1,9 @@
+{
+    "stopped_at_goal": true,
+    "no_collision": false,
+    "flight_time": 8.06,
+    "flight_distance": 26.58,
+    "planning_time": 6.41,
+    "collision_point": [7.692239991579712, 3.7503587836017553, 0.28324162244434875],
+    "sim_exit": "Success: End reached."
+}
