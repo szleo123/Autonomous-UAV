@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/38061240/219244558-4f2ef54f-2ec6-4803-
 ## Image Results
 
 The following images are important image results by running my algorithm on the Maze map. 
-
+<img src="figures/3D_Path.png" alt= “” width="200" height="200">
 ![3D_Path](figures/3D_Path.png){width=50%}
 
 ![position](figures/position.png){width=50%}
