@@ -20,13 +20,9 @@ Over and Under:
 
 https://user-images.githubusercontent.com/38061240/219241129-7a4cde59-78bd-43a3-8ffb-5408294612a1.mov
 
-Evaluating controller in rea
+Evaluating controller in real quadrotor:
 
 https://user-images.githubusercontent.com/38061240/219244558-4f2ef54f-2ec6-4803-ae0f-a81ae25e8c46.mp4
-
-l quadrotor:
-
-
 
 ## Image Results
 
@@ -45,6 +41,10 @@ The following images are important image results by running my algorithm on the 
 ![trace](figures/trace.png)
 
 
+## Compare with quadrotor given true states
 
+![](figures/comp_pos)
+
+![](figures/comp_vel)
 
 
