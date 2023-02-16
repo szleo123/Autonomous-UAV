@@ -30,24 +30,21 @@ The following images are important image results by running my algorithm on the 
 
 <img src="figures/3D_Path.png" alt= “” width="640" height="480">
 
-![3D_Path](figures/3D_Path.png){width=50%}
+<img src="figures/position.png" alt= “” width="640" height="480">
 
-![position](figures/position.png){width=50%}
+<img src="figures/velocity.png" alt= “” width="640" height="480">
 
-![velocity](figures/velocity.png){width=50%}
+<img src="figures/accelerometer.png" alt= “” width="640" height="480">
 
-![accelerometer](figures/accelerometer.png){width=50%}
+<img src="figures/bias.png" alt= “” width="640" height="480">
 
-![bias](figures/bias.png){width=50%}
-
-![trace](figures/trace.png){width=50%}
+<img src="figures/trace.png" alt= “” width="640" height="480">
 
 
 ## Compare with quadrotor given true states
 
-![](figures/comp_pos.png){width=50%}
-
-![](figures/comp_vel.png){width=50%}
+<img src="figures/comp_pos.png" alt= “” width="640" height="480">
+<img src="figures/comp_vel.png" alt= “” width="640" height="480">
 
 For two figures above, the left figures used true states of the quadrotor and right figures used the VIO to estimate the states of the quadrotor. Notice that the overall position and velocity are similar no matter whether the true states are given or estimated. The only difference is that the estimated states are more noisy than the true states which is the nature of state estimation by kalman filters. 
 
